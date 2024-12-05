@@ -1,0 +1,7 @@
+langchain-community
+langchain-huggingface
+langchain-chroma
+transformers
+fastapi
+uvicorn
+streamlit
